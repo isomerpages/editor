@@ -87,7 +87,7 @@
     };
     
     editormd.defaults     = {
-        mode                 : "gfm",          //gfm or markdown
+        mode                 : "markdown",          //gfm or markdown
         name                 : "",             // Form element name
         value                : "",             // value for CodeMirror, if mode not gfm/markdown
         theme                : "",             // Editor.md self themes, before v1.5.0 is CodeMirror theme, default empty
