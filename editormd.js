@@ -131,6 +131,7 @@
         fontSize             : "13px",
         saveHTMLToTextarea   : false,
         disabledKeyMaps      : [],
+	tables:	false,
         
         onload               : function() {
 									if(window.location.hash){
