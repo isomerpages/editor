@@ -69,7 +69,7 @@
             "bold", "italic", "del", "quote", "ucwords", "uppercase", "lowercase", "|", 
             "h1", "h2", "h3", "h4", "h5", "h6", "|", 
             "list-ul", "list-ol", "hr", "|",
-            "link", "image", "code", "preformatted-text", "table", "|",
+            "link", "image", "code", "preformatted-text", "|",
             "preview", "search", "mode", "|",
 			"file-upload", "file-export"
         ],
